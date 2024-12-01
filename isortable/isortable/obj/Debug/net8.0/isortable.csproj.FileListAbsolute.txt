@@ -1,0 +1,14 @@
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\obj\Debug\net8.0\isortable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\obj\Debug\net8.0\isortable.AssemblyInfoInputs.cache
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\obj\Debug\net8.0\isortable.AssemblyInfo.cs
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\obj\Debug\net8.0\isortable.csproj.CoreCompileInputs.cache
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\bin\Debug\net8.0\isortable.exe
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\bin\Debug\net8.0\isortable.deps.json
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\bin\Debug\net8.0\isortable.runtimeconfig.json
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\bin\Debug\net8.0\isortable.dll
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\bin\Debug\net8.0\isortable.pdb
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\obj\Debug\net8.0\isortable.dll
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\obj\Debug\net8.0\refint\isortable.dll
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\obj\Debug\net8.0\isortable.pdb
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\obj\Debug\net8.0\isortable.genruntimeconfig.cache
+C:\Users\KS.co\Desktop\C# excersice\isortable\isortable\obj\Debug\net8.0\ref\isortable.dll
